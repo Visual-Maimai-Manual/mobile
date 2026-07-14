@@ -6,7 +6,7 @@ import { zhSidebar, enSidebar } from './sidebar' // Sidebar, imported from sideb
 export default defineConfig({
   base: '/mobile',
   title: "Visual Maimai Mobile", 
-  description: "A Manual About Visual Maimai Mobile", 
+  description: "A Manual About Visual Maimai Mobile (WORKING IN PROGRESS)", 
   locales: {
     root: {
       label: '中文（简体）',

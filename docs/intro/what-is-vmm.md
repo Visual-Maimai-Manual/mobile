@@ -1,6 +1,6 @@
 # 什么是Visual Maimai（Mobile）
 Visual Maimai Mobile（简称VMM）是由[过氧乙酸不似醋](https://space.bilibili.com/522939904/)开发的一款基于Visual Maimai的可视舞萌DX自制谱创作软件。
-# 什么是Visual Maimai
+## 什么是Visual Maimai
 Visual Maimai（简称VM）是由[过氧乙酸不似醋](https://space.bilibili.com/522939904/)开发的一款基于Unity的可视舞萌DX自制谱创作软件，于2024年09月17日正式发行。
 ## Visual Maimai的优点
 Visual Maimai可以让制谱者毋须学习复杂的Simai语言，只通过鼠标与键盘即可进行自制谱创作。  
